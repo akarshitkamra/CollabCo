@@ -1,0 +1,15 @@
+{
+  "name": "projectmanager",
+  "version": "1.0.0",
+  "description": "crm",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Akarshit",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^5.1.3",
+    "react": "^17.0.2"
+  }
+}
